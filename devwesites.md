@@ -52,3 +52,9 @@
 ###NSIS打包工具###
 1. [NSIS官网](http://nsis.sourceforge.net/Main_Page)
 2. [NSIS使用手册](http://nsis.sourceforge.net/Docs/Contents.html)
+
+
+
+###大神全集###
+1. [foruok](http://blog.csdn.net/foruok/article/details/40247543)
+2. [酷壳网-陈皓](http://coolshell.cn/haoel)
