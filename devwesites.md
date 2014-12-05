@@ -1,6 +1,7 @@
 ###Git教程###
 1. [Git教程by廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 2. [Git教程by猴子老师](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
+3. [GitCafe](https://gitcafe.com/explore)
 
 ###[GitHub]###
 1. [用 Pelican 和 GitHub Pages 搭建免费的个人博客](http://www.dongxf.com/3_Build_Personal_Blog_With_Pelican_And_GitHub_Pages.html)
