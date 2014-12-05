@@ -59,3 +59,8 @@
 ###大神全集###
 1. [foruok](http://blog.csdn.net/foruok/article/details/40247543)
 2. [酷壳网-陈皓](http://coolshell.cn/haoel)
+
+
+
+###开源项目###
+1. [GENIVI Open Source Project and Baseline](http://projects.genivi.org/projects)
