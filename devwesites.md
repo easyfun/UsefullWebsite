@@ -59,8 +59,11 @@
 ###大神全集###
 1. [foruok](http://blog.csdn.net/foruok/article/details/40247543)
 2. [酷壳网-陈皓](http://coolshell.cn/haoel)
+3. [多多指教-寒山居士](http://www.heilqt.com/)
 
 
 
 ###开源项目###
 1. [GENIVI Open Source Project and Baseline](http://projects.genivi.org/projects)
+2. [轻量级c++插件框架-跨平台](http://pluma-framework.sourceforge.net/)
+3. [flask web框架](https://github.com/mitsuhiko/flask)
