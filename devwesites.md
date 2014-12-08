@@ -12,6 +12,11 @@
 1. [SWIG:c/c++扩展python](http://www.swig.org/)
 2. [dragondjf的博客](http://dragondjf.github.io/)
 
+>django框架<br/>
+>1. [django document](https://docs.djangoproject.com/en/dev/)
+>2. [The Django Book](http://djangobook.py3k.cn/)
+>3. [djnago基础教程](http://www.ziqiangxuetang.com/django/django-tutorial.html)
+
 
 ###笔记应用###
 1. [印象笔记EverNote](https://http//www.yinxiang.com/)
