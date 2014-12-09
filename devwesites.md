@@ -7,6 +7,7 @@
 1. [用 Pelican 和 GitHub Pages 搭建免费的个人博客](http://www.dongxf.com/3_Build_Personal_Blog_With_Pelican_And_GitHub_Pages.html)
 2. [GITHUB个人博客搭建-Pelican 在Windows环境下的安装及配置](http://www.cnblogs.com/ballwql/p/pelican.html)
 3. [使用Pelican和GitHub Pages搭建个人博客 —— 基础篇](http://www.xycoding.com/articles/2013/11/21/blog-create/)
+4. [使用Pelican + Markdown + GitHub Pages来撰写Blog](http://heylinux.com/archives/3337.html)
 
 
 ###Python###
